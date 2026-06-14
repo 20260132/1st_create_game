@@ -1,0 +1,676 @@
+('C:\\Users\\winj0\\OneDrive\\바탕 '
+ '화면\\AIGame1\\1st_create_game\\Code\\build\\PlayerMove2\\PlayerMove2.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\build\\PlayerMove2\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\build\\PlayerMove2\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\build\\PlayerMove2\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\build\\PlayerMove2\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\build\\PlayerMove2\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\build\\PlayerMove2\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('PlayerMove2',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\PlayerMove2.py',
+   'PYSOURCE'),
+  ('python310.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\python310.dll',
+   'BINARY'),
+  ('libopus-0.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('libtiff-5.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libtiff-5.dll',
+   'BINARY'),
+  ('libpng16-16.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('libogg-0.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('libwebp-7.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libwebp-7.dll',
+   'BINARY'),
+  ('freetype.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('libjpeg-9.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('portmidi.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\portmidi.dll',
+   'BINARY'),
+  ('libmodplug-1.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libmodplug-1.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('libopusfile-0.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libopusfile-0.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('pygame\\imageext.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\imageext.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\scrap.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\scrap.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\mixer.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer_music.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\mixer_music.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\font.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\font.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_freetype.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\_freetype.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\transform.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\transform.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\time.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\time.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelarray.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\pixelarray.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mask.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\mask.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surface.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\surface.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelcopy.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\pixelcopy.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mouse.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\mouse.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\key.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\key.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\joystick.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\joystick.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\image.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\image.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\event.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\event.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\draw.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\draw.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\display.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\display.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\math.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\math.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\bufferproxy.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\bufferproxy.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\color.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\color.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surflock.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\surflock.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rwobject.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\rwobject.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rect.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\rect.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\constants.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\constants.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\base.cp310-win_amd64.pyd',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\base.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('pygame\\libjpeg-9.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('pygame\\zlib1.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('pygame\\SDL2.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('pygame\\libopus-0.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('pygame\\libogg-0.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('pygame\\libpng16-16.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('pygame\\SDL2_image.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('pygame\\SDL2_mixer.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('pygame\\SDL2_ttf.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('pygame\\freetype.dll',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance '
+   'Toolkit\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('assets\\Jersey10.ttf',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\Jersey10.ttf',
+   'DATA'),
+  ('assets\\TerrarumSans.ttf',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\TerrarumSans.ttf',
+   'DATA'),
+  ('assets\\sounds\\1_2_back.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\1_2_back.wav',
+   'DATA'),
+  ('assets\\sounds\\3_back.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\3_back.wav',
+   'DATA'),
+  ('assets\\sounds\\booing.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\booing.wav',
+   'DATA'),
+  ('assets\\sounds\\camera_get.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\camera_get.wav',
+   'DATA'),
+  ('assets\\sounds\\cheer.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\cheer.wav',
+   'DATA'),
+  ('assets\\sounds\\coin_get.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\coin_get.wav',
+   'DATA'),
+  ('assets\\sounds\\coin_loss.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\coin_loss.wav',
+   'DATA'),
+  ('assets\\sounds\\ending1.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\ending1.wav',
+   'DATA'),
+  ('assets\\sounds\\ending2.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\ending2.wav',
+   'DATA'),
+  ('assets\\sounds\\get.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\get.wav',
+   'DATA'),
+  ('assets\\sounds\\giza.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\giza.wav',
+   'DATA'),
+  ('assets\\sounds\\redcarpet.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\redcarpet.wav',
+   'DATA'),
+  ('assets\\sounds\\shutter1.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\shutter1.wav',
+   'DATA'),
+  ('assets\\sounds\\shutter2.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\shutter2.wav',
+   'DATA'),
+  ('assets\\sounds\\soso.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\soso.wav',
+   'DATA'),
+  ('assets\\sounds\\start_back.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\start_back.wav',
+   'DATA'),
+  ('assets\\sounds\\start_game.wav',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sounds\\start_game.wav',
+   'DATA'),
+  ('assets\\sprites\\1st_fence.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\1st_fence.png',
+   'DATA'),
+  ('assets\\sprites\\1st_gd.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\1st_gd.png',
+   'DATA'),
+  ('assets\\sprites\\1st_gd2.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\1st_gd2.png',
+   'DATA'),
+  ('assets\\sprites\\2nd_back1.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\2nd_back1.png',
+   'DATA'),
+  ('assets\\sprites\\2nd_back2.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\2nd_back2.png',
+   'DATA'),
+  ('assets\\sprites\\2nd_fence.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\2nd_fence.png',
+   'DATA'),
+  ('assets\\sprites\\2nd_gd.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\2nd_gd.png',
+   'DATA'),
+  ('assets\\sprites\\2nd_gd2.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\2nd_gd2.png',
+   'DATA'),
+  ('assets\\sprites\\3rd_fence.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\3rd_fence.png',
+   'DATA'),
+  ('assets\\sprites\\3rd_gd.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\3rd_gd.png',
+   'DATA'),
+  ('assets\\sprites\\3rd_gd2.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\3rd_gd2.png',
+   'DATA'),
+  ('assets\\sprites\\apple.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\apple.png',
+   'DATA'),
+  ('assets\\sprites\\camera1.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\camera1.png',
+   'DATA'),
+  ('assets\\sprites\\camera2.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\camera2.png',
+   'DATA'),
+  ('assets\\sprites\\car.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\car.png',
+   'DATA'),
+  ('assets\\sprites\\char1.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\char1.png',
+   'DATA'),
+  ('assets\\sprites\\char2.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\char2.png',
+   'DATA'),
+  ('assets\\sprites\\coin.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\coin.png',
+   'DATA'),
+  ('assets\\sprites\\emer.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\emer.png',
+   'DATA'),
+  ('assets\\sprites\\ending1.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\ending1.png',
+   'DATA'),
+  ('assets\\sprites\\ending2.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\ending2.png',
+   'DATA'),
+  ('assets\\sprites\\middle.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\middle.png',
+   'DATA'),
+  ('assets\\sprites\\people.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\people.png',
+   'DATA'),
+  ('assets\\sprites\\start_scene.png',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\assets\\sprites\\start_scene.png',
+   'DATA'),
+  ('pygame\\freesansbold.ttf',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\freesansbold.ttf',
+   'DATA'),
+  ('pygame\\pygame_icon.bmp',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\thonny-4.1.7-windows-portable\\lib\\site-packages\\pygame\\pygame_icon.bmp',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\winj0\\OneDrive\\바탕 '
+   '화면\\AIGame1\\1st_create_game\\Code\\build\\PlayerMove2\\base_library.zip',
+   'DATA')],
+ 'python310.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
